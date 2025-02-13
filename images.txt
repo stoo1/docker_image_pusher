@@ -1,3 +1,4 @@
-bitnami/prometheus:2.55.1-debian-12-r10
-grafana/grafana:main-ubuntu
-
+ansible/ansible:ubuntu1404
+tomcat:latest
+elasticsearch:8.17.2
+oci://registry-1.docker.io/bitnamicharts/harbor --version 24.3.0
