@@ -1,2 +1,2 @@
-bitnamicharts/harbor:sha256-ac68444c47559bcc92c084cba6bd1b460eb906b6dfcfea01137f696d28543d5d
+
 zabbix/zabbix-agent:trunk-ubuntu
