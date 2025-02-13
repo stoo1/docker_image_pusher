@@ -1,4 +1,2 @@
-ansible/ansible:ubuntu1404
-tomcat:latest
-elasticsearch:8.17.2
-oci://registry-1.docker.io/bitnamicharts/harbor --version 24.3.0
+bitnamicharts/harbor:sha256-ac68444c47559bcc92c084cba6bd1b460eb906b6dfcfea01137f696d28543d5d
+zabbix/zabbix-agent:trunk-ubuntu
