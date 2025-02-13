@@ -1,7 +1,4 @@
 zabbix/zabbix-agent:sha256-5d00e67f199a02a05d542f4ed2f27c943bc4c21f3d673fe9fa35cfc7191e34c3
 bitnami/prometheus:2.55.1-debian-12-r10
 grafana/grafana:main-ubuntu
-ansible/ansible:ubuntu1404
-tomcat:latest
-elasticsearch:8.17.2
-oci://registry-1.docker.io/bitnamicharts/harbor --version 24.3.0
+
