@@ -1,1 +1,1 @@
-rancher/k3s:latest
+ alpine/ansible:2.18.1
