@@ -1,1 +1,1 @@
-nginx:latest
+nginx:stable-alpine3.20
