@@ -1,1 +1,1 @@
-jenkins/jenkins:2.498
+jenkins:2.60.3
