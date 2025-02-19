@@ -1,1 +1,1 @@
- ubuntu/prometheus:2.53.3-24.04_stable
+jenkins/jenkins:2.498
