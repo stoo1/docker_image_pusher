@@ -1,1 +1,1 @@
-docker:rc
+jumpserver/jumpserver:v4.0.0-rctest-ce
