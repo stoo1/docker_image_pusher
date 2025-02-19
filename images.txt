@@ -1,1 +1,1 @@
-jumpserver/jumpserver:v4.0.0-rctest-ce
+ ubuntu/prometheus:2.53.3-24.04_stable
