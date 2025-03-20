@@ -1,1 +1,1 @@
-nicolaka/netshoot
+ traefik/whoami:v1.10
