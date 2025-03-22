@@ -1,1 +1,1 @@
-ghcr.io/stakater/reloader:v1.0.51
+ bogeit/nfs-subdir-external-provisioner:v4.0.2
