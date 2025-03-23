@@ -1,1 +1,2 @@
- bogeit/nfs-subdir-external-provisioner:v4.0.2
+longhornio/longhorn-ui:v1.5.3
+longhornio/longhorn-manager:v1.5.3
