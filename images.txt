@@ -1,2 +1,1 @@
-longhornio/longhorn-ui:v1.5.3
-longhornio/longhorn-manager:v1.5.3
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
