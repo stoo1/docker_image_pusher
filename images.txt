@@ -1,2 +1,1 @@
- bogeit/zookeeper
-bogeit/kafka:2.8.1
+williamguozi/log-pilot-filebeat:containerd
