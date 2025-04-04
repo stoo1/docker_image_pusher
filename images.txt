@@ -1,1 +1,1 @@
-bitnami/postgresql:15
+docker.io/sameersbn/gitlab:17.3.4
