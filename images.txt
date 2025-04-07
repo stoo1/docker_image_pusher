@@ -1,1 +1,1 @@
-docker.io/elastic/filebeat:8.11.3
+bitnami/kafka:2.8.1
