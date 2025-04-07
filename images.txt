@@ -1,1 +1,1 @@
-docker.io/sameersbn/gitlab:17.3.4
+docker.io/elastic/filebeat:8.11.3
