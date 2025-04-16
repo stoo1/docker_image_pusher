@@ -1,1 +1,1 @@
-docker.io/sameersbn/gitlab:16.8.2
+docker.io/gitlab/gitlab-ce:16.7.9-ce.0
