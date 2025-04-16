@@ -1,1 +1,1 @@
-registry.gitlab.com/gitlab-org/gitlab-docs/archives:16.10
+docker.io/yrzr/gitlab-ce-arm64v8:15.1.2-ce.0
