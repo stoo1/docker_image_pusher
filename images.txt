@@ -1,1 +1,1 @@
-bitnami/kafka:2.8.1
+registry.gitlab.com/gitlab-org/gitlab-docs/archives:16.10
