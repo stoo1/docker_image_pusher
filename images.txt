@@ -1,1 +1,1 @@
-docker pull forresttse/dm8
+forresttse/dm8
