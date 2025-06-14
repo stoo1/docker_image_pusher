@@ -1,1 +1,1 @@
-openjdk:26-oraclelinux8
+swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/sizx/dm8:latest
