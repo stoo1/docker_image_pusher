@@ -1,1 +1,2 @@
-swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/sizx/dm8:latest
+python:3.13-windowsservercore
+python:3.13
